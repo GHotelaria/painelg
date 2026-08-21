@@ -1,0 +1,34 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "https://7f0548f6b28a1758d9bf7be630d36cb4.artifacts.cloudflare.net/git/prod/HGPZCB5NQedj7fX3Kz67kA.git",
+    "expiration": "2026-08-21T19:59:49.062Z",
+    "token": "art_v2_x_8c80c04757fca15c153e37ca1e2fc4840f43d71d?expires=1787342389",
+    "backend": "GIT_BACKEND_ARTIFACTS"
+  },
+  "name": "painel-g-hotelaria",
+  "path": "/home/ubuntu/painel-g-hotelaria",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "UTdc8PVcZhTkghwJXiqB7X",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "KDnRaphVBrCgBCheRZ8gw8",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "Recepção Centro Class",
+    "OWNER_OPEN_ID": "SDn9oAWT5W3C7VqtcLcKs4",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "9ad2c235-b390-4328-8749-9839e8906164",
+    "VITE_APP_ID": "HGPZCB5NQedj7fX3Kz67kA",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Painel G Hotelaria",
+    "VITE_FRONTEND_FORGE_API_KEY": "j73zZAvxrrFwaYzkP4VSoo",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
